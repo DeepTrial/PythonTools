@@ -10,3 +10,7 @@ this Repository is a collection of all kinds python tools
 
 ## Visualization Tool
 [Link][3] this tool is to help visualize gray image
+
+[1]: https://github.com/DeepTrial/PythonTools/tree/master/ExcelTool
+[2]: https://github.com/DeepTrial/PythonTools/tree/master/MarkDownTOC
+[3]: https://github.com/DeepTrial/PythonTools/tree/master/VisualTool
