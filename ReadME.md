@@ -2,20 +2,16 @@
 
 this Repository is a collection of all kinds python tools
 
-## Excel Tool
-[Link][1] this tool is to help read,create,revise the xls file.
+## for excel/csv file
+- file-io: read and write excel files
 
-## MarkDown TOC Tool
-[Link][2] this tool is to help generate table of content for markdown file
-
-## Visualization Tool
-[Link][3] this tool is to help visualize gray image
-
-## Image Tool
-[Link][4] this tool is focus on image processing.
+## for images
+- heic2jpg: convert heic image to the format of jpg
+- rename: rename image name by batch
+- puzzle: show different image patches in one image
+- gray3d: show the gray scale image in the mode of 3D
 
 
-[1]: https://github.com/DeepTrial/PythonTools/tree/master/ExcelTool
-[2]: https://github.com/DeepTrial/PythonTools/tree/master/MarkDownTOC
-[3]: https://github.com/DeepTrial/PythonTools/tree/master/VisualTool
-[4]: https://github.com/DeepTrial/PythonTools/tree/master/ImageTool
+## for  markdown file
+- table of content: generate the table of content for the markdown file
+
